@@ -1,7 +1,7 @@
 ### Saudações, me chamo Akira ✌️
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&&theme=tokyonight" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniAkira&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt=" Daniel Akira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniAkira&layout=compact&hide_border=true&&theme=tokyonight" />
 </div>
 
 <div align="center"><br>
