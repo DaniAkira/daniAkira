@@ -1,7 +1,7 @@
 ### Saudações, me chamo Akira ✌️
-<div align="center"><br>
+<div align="center" display="inline-block"><br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniAkira&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniAkira&show_icons=true&theme=tokyonight)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniAkira&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
