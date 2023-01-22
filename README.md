@@ -1,16 +1,16 @@
-### Hi there 👋
+### Saudações, me chamo Akira ✌️
+<div align="center"><br>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniAkira&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniAkira&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-<!--
-**DaniAkira/daniAkira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div><BR>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=daniAkira&bg_color=1a1b27&color=70a4fc&line=37b5a7&point=be90f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
