@@ -1,6 +1,6 @@
 ### Saudações, me chamo Akira ✌️
+## Estudando com foco em desenvolvimento front-end.
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniAkira&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt=" Daniel Akira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniAkira&layout=compact&hide_border=true&&theme=tokyonight" />
 </div>
 
