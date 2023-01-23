@@ -5,10 +5,10 @@
 </div>
 
 <div align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="35" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" height="35" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" height="35" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   
-</div><BR><br>
+</div><br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=daniAkira&bg_color=1a1b27&color=70a4fc&line=37b5a7&point=be90f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
