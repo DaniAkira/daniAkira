@@ -1,5 +1,5 @@
 ## Saudações, me chamo Akira ✌️
-### Estudando com foco em desenvolvimento front-end.
+### Atualmente estudando com foco em desenvolvimento back-end com Node.
 
 <div align="center">
   
