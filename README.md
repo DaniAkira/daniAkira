@@ -16,4 +16,4 @@
   
 </div><br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=daniAkira&bg_color=1a1b27&color=70a4fc&line=37b5a7&point=be90f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
